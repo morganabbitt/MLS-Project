@@ -1,0 +1,10 @@
+#ignore ipynb
+*.ipynb_checkpoint
+
+#DS Store
+*.DS_Store
+
+#ignore $
+*$
+
+
